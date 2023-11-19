@@ -1,1 +1,1 @@
-﻿calc.exe
+﻿Start-Process -FilePath “calc.exe"
